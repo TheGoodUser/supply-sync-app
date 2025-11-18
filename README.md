@@ -1,4 +1,8 @@
 # Supply Sync
+![LOGO](https://i.ibb.co/GfTWXTwd/Whats-App-Image-2025-11-18-at-13-13-56-a9632f94.jpg)
+### dependent repositories
+- https://github.com/TheGoodUser/supply-sync-backend
+- https://github.com/TheGoodUser/supply-sync-frontend
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 
